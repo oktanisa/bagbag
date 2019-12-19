@@ -1051,7 +1051,7 @@ p {
   .single-blog .blog-image {
     overflow: hidden; }
     .single-blog .blog-image img {
-      width: 100%;
+      width: 82%;
       -webkit-transition: all 0.4s ease-out 0s;
       -moz-transition: all 0.4s ease-out 0s;
       -ms-transition: all 0.4s ease-out 0s;
