@@ -60,7 +60,7 @@
                 <div class="col-lg-12">
                     <nav class="navbar navbar-expand-lg">
                         <a class="navbar-brand" href="index.html">
-                            <img src="assets/images/logo.png" alt="Logo">
+                        <img src="assets/images/LOGOnew.png" width="150px" heigth="50px" alt="Logo">
                         </a> <!-- Logo -->
                         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                             <span class="bar-icon"></span>
@@ -71,11 +71,11 @@
                         <div class="collapse navbar-collapse" id="navbarSupportedContent">
                             <ul id="nav" class="navbar-nav ml-auto">
                                 <li class="nav-item active">
-                                    <a data-scroll-nav="0" href="#home">Beranda</a>
+                                    <a data-scroll-nav="0" href="index.php">Beranda</a>
                                 </li>
                                 <li class="nav-item">
                                     <div class="dropdown">
-                                        <a class=" dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                        <a class=" dropdown-toggle" href="index.php" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                             Produk</a>
                                             <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
                                                 <a class="dropdown-item" href="#">Sport Bra</a>

@@ -76,11 +76,11 @@
                         <div class="collapse navbar-collapse" id="navbarSupportedContent">
                             <ul id="nav" class="navbar-nav ml-auto">
                                 <li class="nav-item active">
-                                    <a data-scroll-nav="0" href="#home">Beranda</a>
+                                    <a data-scroll-nav="0" href="">Beranda</a>
                                 </li>
                                 <li class="nav-item">
                                     <div class="dropdown">
-                                        <a class=" dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                        <a class=" dropdown-toggle" href="index.php" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                             Produk</a>
                                             <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
                                                 <a class="dropdown-item" href="#">Sport Bra</a>

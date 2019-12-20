@@ -63,7 +63,7 @@
                 <div class="col-lg-12">
                     <nav class="navbar navbar-expand-lg">
                         <a class="navbar-brand" href="index.html">
-                            <img src="assets/images/logo.png" alt="Logo">
+                        <img src="assets/images/LOGOnew.png" width="150px" heigth="50px" alt="Logo">
                         </a> <!-- Logo -->
                         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                             <span class="bar-icon"></span>
@@ -91,7 +91,7 @@
                                         
                                       
                                 <li class="nav-item">
-                                    <a data-scroll-nav="0" href="keranjang.html">Keranjang</a>
+                                    <a data-scroll-nav="0" href="keranjang.php">Keranjang</a>
                                 </li>
                             </ul> <!-- navbar nav -->
                         </div>
@@ -123,7 +123,7 @@
                                 <div class="slider-product-content">
                                     <h1 class="slider-title mb-10" data-animation="fadeInUp" data-delay="0.3s"><span>BRA</span> SPORT <span>PREMIUM</span></h1>
                                     <p class="mb-25" data-animation="fadeInUp" data-delay="0.9s">Bra Sport Premium hadir dengan desain elegant dan nyaman dipakai <br> Segera dapatkan dengan harga khusus.</p>
-                                    <a class="main-btn" href="#" data-animation="fadeInUp" data-delay="1.5s">Beli Sekarang <i class="lni-chevron-right"></i></a>
+                                    <a class="main-btn" href="keranjang.php" data-animation="fadeInUp" data-delay="1.5s">Beli Sekarang <i class="lni-chevron-right"></i></a>
                                 </div> <!-- slider product content -->
                             </div>
                         </div> <!-- row -->
@@ -146,7 +146,7 @@
                                         <h1 class="slider-title mb-10" data-animation="fadeInUp" data-delay="0.3s"><span>Promo</span> Kilat <span>Khusus</span></h1>
                                         <p class="mb-25" data-animation="fadeInUp" data-delay="0.9s">Sport Bra ini dirancang indah untuk memberikan rasa percaya diri, sehinggga tidak perlu khawatir lagi saat 
                                                                                                     akan mengenakan baju dengan model kerah rendah atau kemeja dengan kancing terbuka.</p>
-                                        <a class="main-btn" href="#" data-animation="fadeInUp" data-delay="1.5s">Beli Sekarang <i class="lni-chevron-right"></i></a>
+                                        <a class="main-btn" href="keranjang.php" data-animation="fadeInUp" data-delay="1.5s">Beli Sekarang <i class="lni-chevron-right"></i></a>
                                     </div> <!-- slider product content -->
                                 </div>
                             </div> <!-- row -->
@@ -168,7 +168,7 @@
                                     <div class="slider-product-content">
                                         <h1 class="slider-title mb-10" data-animation="fadeInUp" data-delay="0.3s"><span>Dapatkan</span> Segera <span>!!</span></h1>
                                         <p class="mb-25" data-animation="fadeInUp" data-delay="0.9s">Setiap pembelian sport bra khusus minggu ini, dapatkan free panty,<br> tanpa minimal pembelian. </p>
-                                        <a class="main-btn" href="#contact" data-animation="fadeInUp" data-delay="1.5s">Beli Sekarang<i class="lni-chevron-right"></i></a>
+                                        <a class="main-btn" href="keranjang.php" data-animation="fadeInUp" data-delay="1.5s">Beli Sekarang<i class="lni-chevron-right"></i></a>
                                     </div> <!-- slider product content -->
                                 </div>
                             </div> <!-- row -->
@@ -541,7 +541,7 @@
                                 </div>
                                 <br>
                                 <div class="col-md-30">
-                                        <a class="btn btn-primary btn-block"  href="#" data-animation="fadeInUp" data-delay="1.5s">Beli Sekarang</a>
+                                        <a class="btn btn-primary btn-block"  href="keranjang.php" data-animation="fadeInUp" data-delay="1.5s">Beli Sekarang</a>
                                 </div>
                             </div>
                             
@@ -564,7 +564,7 @@
                                 </div>
                                 <br>
                                 <div class="col-md-30">
-                                        <a class="btn btn-primary btn-block"  href="#" data-animation="fadeInUp" data-delay="1.5s">Beli Sekarang</a>
+                                        <a class="btn btn-primary btn-block"  href="keranjang.php" data-animation="fadeInUp" data-delay="1.5s">Beli Sekarang</a>
                                 </div>
                             </div>
                             
@@ -587,7 +587,7 @@
                                 </div>
                                 <br>
                                 <div class="col-md-30">
-                                        <a class="btn btn-primary btn-block"  href="#" data-animation="fadeInUp" data-delay="1.5s">Beli Sekarang</a>
+                                        <a class="btn btn-primary btn-block"  href="keranjang.php" data-animation="fadeInUp" data-delay="1.5s">Beli Sekarang</a>
                                 </div>
                             </div>
                             
@@ -612,7 +612,7 @@
                                     </div>
                                     <br>
                                     <div class="col-md-30">
-                                            <a class="btn btn-primary btn-block"  href="#" data-animation="fadeInUp" data-delay="1.5s">Beli Sekarang</a>
+                                            <a class="btn btn-primary btn-block"  href="keranjang.php" data-animation="fadeInUp" data-delay="1.5s">Beli Sekarang</a>
                                     </div>
                                 </div>
                                 
@@ -635,7 +635,7 @@
                                     </div>
                                     <br>
                                     <div class="col-md-30">
-                                            <a class="btn btn-primary btn-block"  href="#" data-animation="fadeInUp" data-delay="1.5s">Beli Sekarang</a>
+                                            <a class="btn btn-primary btn-block"  href="keranjang.php" data-animation="fadeInUp" data-delay="1.5s">Beli Sekarang</a>
                                     </div>
                                 </div>
                                 
@@ -658,7 +658,7 @@
                                     </div>
                                     <br>
                                     <div class="col-md-30">
-                                            <a class="btn btn-primary btn-block"  href="#" data-animation="fadeInUp" data-delay="1.5s">Beli Sekarang</a>
+                                            <a class="btn btn-primary btn-block"  href="keranjang.php" data-animation="fadeInUp" data-delay="1.5s">Beli Sekarang</a>
                                     </div>
                                     </div>
                                 
@@ -701,7 +701,7 @@
                                 </div>
                                 <br>
                                 <div class="col-md-30">
-                                        <a class="btn btn-primary btn-block"  href="#" data-animation="fadeInUp" data-delay="1.5s">Beli Sekarang</a>
+                                        <a class="btn btn-primary btn-block"  href="keranjang.php" data-animation="fadeInUp" data-delay="1.5s">Beli Sekarang</a>
                                 </div>
                             </div>
                             
@@ -724,7 +724,7 @@
                                 </div>
                                 <br>
                                 <div class="col-md-30">
-                                        <a class="btn btn-primary btn-block"  href="#" data-animation="fadeInUp" data-delay="1.5s">Beli Sekarang</a>
+                                        <a class="btn btn-primary btn-block"  href="keranjang.php" data-animation="fadeInUp" data-delay="1.5s">Beli Sekarang</a>
                                 </div>
                             </div>
                             
@@ -747,7 +747,7 @@
                                 </div>
                                 <br>
                                 <div class="col-md-30">
-                                        <a class="btn btn-primary btn-block"  href="#" data-animation="fadeInUp" data-delay="1.5s">Beli Sekarang</a>
+                                        <a class="btn btn-primary btn-block"  href="keranjang.php" data-animation="fadeInUp" data-delay="1.5s">Beli Sekarang</a>
                                 </div>
                             </div>
                             
@@ -772,7 +772,7 @@
                                     </div>
                                     <br>
                                     <div class="col-md-30">
-                                            <a class="btn btn-primary btn-block"  href="#" data-animation="fadeInUp" data-delay="1.5s">Beli Sekarang</a>
+                                            <a class="btn btn-primary btn-block"  href="keranjang.php" data-animation="fadeInUp" data-delay="1.5s">Beli Sekarang</a>
                                     </div>
                                 </div>
                                 
@@ -795,7 +795,7 @@
                                     </div>
                                     <br>
                                     <div class="col-md-30">
-                                            <a class="btn btn-primary btn-block"  href="#" data-animation="fadeInUp" data-delay="1.5s">Beli Sekarang</a>
+                                            <a class="btn btn-primary btn-block"  href="keranjang.php" data-animation="fadeInUp" data-delay="1.5s">Beli Sekarang</a>
                                     </div>
                                     </div>
                                 
@@ -818,7 +818,7 @@
                                     </div>
                                     <br>
                                     <div class="col-md-30">
-                                            <a class="btn btn-primary btn-block"  href="#" data-animation="fadeInUp" data-delay="1.5s">Beli Sekarang</a>
+                                            <a class="btn btn-primary btn-block"  href="keranjang.php" data-animation="fadeInUp" data-delay="1.5s">Beli Sekarang</a>
                                     </div>
                                     </div>
                                 
@@ -840,7 +840,7 @@
                     <div class="col-lg-6 col-md-7 col-sm-7">
                         <div class="footer-logo mt-40">
                             <a href="#">
-                                <img src="assets/images/logo.png" alt="Logo">
+                            <img src="assets/images/LOGOnew.png" width="150px" heigth="50px" alt="Logo">
                             </a>
                             <p class="mt-14">Toko online terlengkap dan termurah dengan harga promo setiap harinya.
                                 Tidak hanya produk bra saja, kami juga menyediakan perlengkapan bayi, tas dan korset.</p>
