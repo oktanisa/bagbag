@@ -62,8 +62,8 @@
             <div class="row">
                 <div class="col-lg-12">
                     <nav class="navbar navbar-expand-lg">
-                        <a class="navbar-brand" href="index.html">
-                            <img src="assets/images/logo.png" alt="Logo">
+                        <a class="navbar-brand" href="index.php">
+                        <img src="assets/images/LOGOnew.png" width="150px" heigth="50px" alt="Logo">
                         </a> <!-- Logo -->
                         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                             <span class="bar-icon"></span>
@@ -91,7 +91,7 @@
                                         
                                       
                                 <li class="nav-item">
-                                    <a data-scroll-nav="0" href="keranjang.html">Keranjang</a>
+                                    <a data-scroll-nav="0" href="keranjang.php">Keranjang</a>
                                 </li>
                             </ul> <!-- navbar nav -->
                         </div>
