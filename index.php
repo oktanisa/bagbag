@@ -74,15 +74,15 @@
                         <div class="collapse navbar-collapse" id="navbarSupportedContent">
                             <ul id="nav" class="navbar-nav ml-auto">
                                 <li class="nav-item active">
-                                    <a data-scroll-nav="0" href="#home">Beranda</a>
+                                    <a data-scroll-nav="0" href="index.php">Beranda</a>
                                 </li>
                                 <li class="nav-item">
                                     <div class="dropdown">
                                         <a class=" dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                             Produk</a>
                                             <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-                                                <a class="dropdown-item" href="#">Sport Bra</a>
-                                                <a class="dropdown-item" href="#">Tas</a>
+                                                <a class="dropdown-item" href="#sportbra">Sport Bra</a>
+                                                <a class="dropdown-item" href="#tas">Tas</a>
                                                 <a class="dropdown-item" href="#">Korset</a>
                                                 <a class="dropdown-item" href="#">Perlengkapan Bayi</a>
                                             </div>
@@ -181,7 +181,7 @@
     <!--====== SLIDER PART ENDS ======-->
 
 
-    <section id="blog" class="blog-area pt-100">
+    <section id="sportbra" class="blog-area pt-100">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-lg-6">
@@ -472,7 +472,7 @@
      <!--====== TESTIMONIAL PART START ======-->
     <br><br><br>
      <section id="testimonial" class="testimonial-area pt-200">
-            <div class="testimonial-bg bg_cover" style="background-image: url(assets/images/testimonial/testi.jpg)"></div>
+            <div class="testimonial-bg bg_cover" style="background-image: url(assets/images/testimonial/video.jpg)"></div>
             <div class="container">
                 <div class="row">
                     <div class="col-lg-5 col-md-8">
@@ -489,7 +489,7 @@
                                 <div class="single-testimonial">
                                     <i class="lni-quotation"></i>
                                     <p class="mb-30">
-                                            READY WARNA : krem, hitam, kuning, pink, biru, hijau <br>
+                                            READY WARNA : cream, hitam, kuning, pink, biru, hijau <br>
                                             READY SIZE M, L, XL, XXL <br>
                                             XXL hanya tersedia warna hitam dan krem <br>
                                     </p>
@@ -500,7 +500,7 @@
                     </div>
                     <div class="col-lg-3 col-md-3">
                         <div class="testimonial-play text-right d-none d-md-block">
-                            <a class="Video-popup" href="https://www.youtube.com/watch?v=l8ccw7BMrMA"><i class="lni-play"></i></a>
+                            <a class="Video-popup" href="https://www.youtube.com/watch?v=u_4D2cShT5k"><i class="lni-play"></i></a>
                         </div> <!-- testimonial play -->
                     </div>
                 </div> <!-- row -->
@@ -532,12 +532,12 @@
                         </div>
                         <div class="blog-content">
                             <div class="content">
-                                <h4 class="title"><a href="#">Rowan an orangutan known  & loved</a></h4>
+                                <h4 class="title"><a href="#">1 Pcs Sport Bra</a></h4>
                                 <span>25 JULY, 2022</span>
                                 <br>
                                 <br>
                                 <div class="col-md-30">
-                                    <a class="btn btn-primary btn-block" href="#" data-animation="fadeInUp" data-delay="1.5s">Chat Penjual</a>
+                                    <a class="btn btn-primary btn-block" href="https://api.whatsapp.com/send?phone=628976350128" data-animation="fadeInUp" data-delay="1.5s">Chat Penjual</a>
                                 </div>
                                 <br>
                                 <div class="col-md-30">
@@ -555,12 +555,12 @@
                         </div>
                         <div class="blog-content">
                             <div class="content">
-                                <h4 class="title"><a href="#">Rowan an orangutan known  & loved</a></h4>
+                                <h4 class="title"><a href="#">2 Pcs Sport Bra</a></h4>
                                 <span>25 JULY, 2022</span>
                                 <br>
                                 <br>
                                 <div class="col-md-30">
-                                    <a class="btn btn-primary btn-block" href="#" data-animation="fadeInUp" data-delay="1.5s">Chat Penjual</a>
+                                    <a class="btn btn-primary btn-block" href="https://api.whatsapp.com/send?phone=628976350128" data-animation="fadeInUp" data-delay="1.5s">Chat Penjual</a>
                                 </div>
                                 <br>
                                 <div class="col-md-30">
@@ -578,12 +578,12 @@
                         </div>
                         <div class="blog-content">
                             <div class="content">
-                                <h4 class="title"><a href="#">Rowan an orangutan known  & loved</a></h4>
+                                <h4 class="title"><a href="#">3 Pcs Sport Bra</a></h4>
                                 <span>25 JULY, 2022</span>
                                 <br>
                                 <br>
                                 <div class="col-md-30">
-                                    <a class="btn btn-primary btn-block" href="#" data-animation="fadeInUp" data-delay="1.5s">Chat Penjual</a>
+                                    <a class="btn btn-primary btn-block" href="https://api.whatsapp.com/send?phone=628976350128" data-animation="fadeInUp" data-delay="1.5s">Chat Penjual</a>
                                 </div>
                                 <br>
                                 <div class="col-md-30">
@@ -603,12 +603,12 @@
                             </div>
                             <div class="blog-content">
                                 <div class="content">
-                                    <h4 class="title"><a href="#">Rowan an orangutan known  & loved</a></h4>
+                                    <h4 class="title"><a href="#">1 Pcs Sport Bra Plus Panty</a></h4>
                                     <span>25 JULY, 2022</span>
                                     <br>
                                     <br>
                                     <div class="col-md-30">
-                                        <a class="btn btn-primary btn-block" href="#" data-animation="fadeInUp" data-delay="1.5s">Chat Penjual</a>
+                                        <a class="btn btn-primary btn-block" href="https://api.whatsapp.com/send?phone=628976350128" data-animation="fadeInUp" data-delay="1.5s">Chat Penjual</a>
                                     </div>
                                     <br>
                                     <div class="col-md-30">
@@ -626,12 +626,12 @@
                             </div>
                             <div class="blog-content">
                                 <div class="content">
-                                    <h4 class="title"><a href="#">Rowan an orangutan known  & loved</a></h4>
+                                    <h4 class="title"><a href="#">2 Pcs Sport Bra Plus Panty</a></h4>
                                     <span>25 JULY, 2022</span>
                                     <br>
                                     <br>
                                     <div class="col-md-30">
-                                        <a class="btn btn-primary btn-block" href="#" data-animation="fadeInUp" data-delay="1.5s">Chat Penjual</a>
+                                        <a class="btn btn-primary btn-block" href="https://api.whatsapp.com/send?phone=628976350128" data-animation="fadeInUp" data-delay="1.5s">Chat Penjual</a>
                                     </div>
                                     <br>
                                     <div class="col-md-30">
@@ -649,12 +649,12 @@
                             </div>
                             <div class="blog-content">
                                 <div class="content">
-                                    <h4 class="title"><a href="#">Rowan an orangutan known  & loved</a></h4>
+                                    <h4 class="title"><a href="#">3 Pcs Sport Bra Plus Panty</a></h4>
                                     <span>25 JULY, 2022</span>
                                     <br>
                                     <br>
                                     <div class="col-md-30">
-                                        <a class="btn btn-primary btn-block" href="#" data-animation="fadeInUp" data-delay="1.5s">Chat Penjual</a>
+                                        <a class="btn btn-primary btn-block" href="https://api.whatsapp.com/send?phone=628976350128" data-animation="fadeInUp" data-delay="1.5s">Chat Penjual</a>
                                     </div>
                                     <br>
                                     <div class="col-md-30">
@@ -674,7 +674,7 @@
 
      <!--======  BLOG PART START ======-->
     
-     <section id="blog" class="blog-area pt-125">
+     <section id="tas" class="blog-area pt-125">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-lg-6">
@@ -692,12 +692,12 @@
                         </div>
                         <div class="blog-content">
                             <div class="content">
-                                <h4 class="title"><a href="#">Rowan an orangutan known  & loved</a></h4>
+                                <h4 class="title"><a href="#">Morymony Evalia Bag</a></h4>
                                 <span>25 JULY, 2022</span>
                                 <br>
                                 <br>
                                 <div class="col-md-30">
-                                    <a class="btn btn-primary btn-block" href="#" data-animation="fadeInUp" data-delay="1.5s">Chat Penjual</a>
+                                    <a class="btn btn-primary btn-block" href="https://api.whatsapp.com/send?phone=628976350128" data-animation="fadeInUp" data-delay="1.5s">Chat Penjual</a>
                                 </div>
                                 <br>
                                 <div class="col-md-30">
@@ -715,12 +715,12 @@
                         </div>
                         <div class="blog-content">
                             <div class="content">
-                                <h4 class="title"><a href="#">Rowan an orangutan known  & loved</a></h4>
+                                <h4 class="title"><a href="#">Lova Melanie Bag</a></h4>
                                 <span>25 JULY, 2022</span>
                                 <br>
                                 <br>
                                 <div class="col-md-30">
-                                    <a class="btn btn-primary btn-block" href="#" data-animation="fadeInUp" data-delay="1.5s">Chat Penjual</a>
+                                    <a class="btn btn-primary btn-block" href="https://api.whatsapp.com/send?phone=628976350128" data-animation="fadeInUp" data-delay="1.5s">Chat Penjual</a>
                                 </div>
                                 <br>
                                 <div class="col-md-30">
@@ -738,12 +738,12 @@
                         </div>
                         <div class="blog-content">
                             <div class="content">
-                                <h4 class="title"><a href="#">Rowan an orangutan known  & loved</a></h4>
+                                <h4 class="title"><a href="#">Goyave Bag</a></h4>
                                 <span>25 JULY, 2022</span>
                                 <br>
                                 <br>
                                 <div class="col-md-30">
-                                    <a class="btn btn-primary btn-block" href="#" data-animation="fadeInUp" data-delay="1.5s">Chat Penjual</a>
+                                    <a class="btn btn-primary btn-block" href="https://api.whatsapp.com/send?phone=628976350128" data-animation="fadeInUp" data-delay="1.5s">Chat Penjual</a>
                                 </div>
                                 <br>
                                 <div class="col-md-30">
@@ -763,12 +763,12 @@
                             </div>
                             <div class="blog-content">
                                 <div class="content">
-                                    <h4 class="title"><a href="#">Rowan an orangutan known  & loved</a></h4>
+                                    <h4 class="title"><a href="#">Anello Diaper Bag</a></h4>
                                     <span>25 JULY, 2022</span>
                                     <br>
                                     <br>
                                     <div class="col-md-30">
-                                        <a class="btn btn-primary btn-block" href="#" data-animation="fadeInUp" data-delay="1.5s">Chat Penjual</a>
+                                        <a class="btn btn-primary btn-block" href="https://api.whatsapp.com/send?phone=628976350128" data-animation="fadeInUp" data-delay="1.5s">Chat Penjual</a>
                                     </div>
                                     <br>
                                     <div class="col-md-30">
@@ -786,12 +786,12 @@
                             </div>
                             <div class="blog-content">
                                 <div class="content">
-                                    <h4 class="title"><a href="#">Rowan an orangutan known  & loved</a></h4>
+                                    <h4 class="title"><a href="#">Moschinojoy Sling Pat Bag </a></h4>
                                     <span>25 JULY, 2022</span>
                                     <br>
                                     <br>
                                     <div class="col-md-30">
-                                        <a class="btn btn-primary btn-block" href="#" data-animation="fadeInUp" data-delay="1.5s">Chat Penjual</a>
+                                        <a class="btn btn-primary btn-block" href="https://api.whatsapp.com/send?phone=628976350128" data-animation="fadeInUp" data-delay="1.5s">Chat Penjual</a>
                                     </div>
                                     <br>
                                     <div class="col-md-30">
@@ -809,12 +809,12 @@
                             </div>
                             <div class="blog-content">
                                 <div class="content">
-                                    <h4 class="title"><a href="#">Rowan an orangutan known  & loved</a></h4>
+                                    <h4 class="title"><a href="#">Croco Bag</a></h4>
                                     <span>25 JULY, 2022</span>
                                     <br>
                                     <br>
                                     <div class="col-md-30">
-                                        <a class="btn btn-primary btn-block" href="#" data-animation="fadeInUp" data-delay="1.5s">Chat Penjual</a>
+                                        <a class="btn btn-primary btn-block" href="https://api.whatsapp.com/send?phone=628976350128" data-animation="fadeInUp" data-delay="1.5s">Chat Penjual</a>
                                     </div>
                                     <br>
                                     <div class="col-md-30">

@@ -71,7 +71,7 @@
                         <div class="collapse navbar-collapse" id="navbarSupportedContent">
                             <ul id="nav" class="navbar-nav ml-auto">
                                 <li class="nav-item ">
-                                    <a data-scroll-nav="0" href="#home">Beranda</a>
+                                    <a data-scroll-nav="0" href="index.php">Beranda</a>
                                 </li>
                                 <li class="nav-item">
                                     <div class="dropdown">
@@ -99,8 +99,8 @@
   
     <!--====== HEADER PART ENDS ======-->
     <body style="margin-top:200px">
-    <div class="row">
-
+    <div class="row col-md-12">
+        <div class="row row-pb-md justify-content-center">
 					<div class="col-md-5 col-md-offset-1">
 						<form method="post" class="colorlib-form">
 							<h2>Upload Bukti Pembayaran</h2>
@@ -145,8 +145,12 @@
 					</div>
 						
 					</div>
-				</div>
-				<div class="col-md-5">
+
+                </div>
+
+                
+              
+				<div class="col-md-5 ">
 					<div class="cart-detail">
 						<h2>Apa Itu Bukti Pembayaran?</h2>
 						<p>Bukti pembayaran merupakan bukti transfer bank transaksi pemesanan yang anda lakukan, caranya</p>					
@@ -162,9 +166,12 @@
 						<h5>*ukuran gambar maksimal 1mb.</h5>
 					</div>
 					
-			</div>
+			    </div>
 			
-		</div>	
+
+                </div>
+                  
+        </div>
         </body>
 <!--====== FOOTER PART START ======-->
     

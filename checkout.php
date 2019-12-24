@@ -82,7 +82,7 @@
                         <div class="collapse navbar-collapse" id="navbarSupportedContent">
                             <ul id="nav" class="navbar-nav ml-auto">
                                 <li class="nav-item ">
-                                    <a data-scroll-nav="0" href="#home">Beranda</a>
+                                    <a data-scroll-nav="0" href="index.php">Beranda</a>
                                 </li>
                                 <li class="nav-item">
                                     <div class="dropdown">
@@ -140,7 +140,8 @@
 							</div>
 						</div>
 					</div>
-				</div>
+                </div>
+                <br><br><br>
 				<div class="row">
 					<div class="col-md-7">
 						<form method="post" class="colorlib-form">
@@ -211,13 +212,13 @@
 						</div>
 						<div class="cart-detail">
 							<h2>Pembayaran</h2>
-							<img src="assets/images/rekening.png" height="200px" >
-						</div>	
-						<br><br>
-						<div class="row">
-							<div class="col-md-12">
+                            <img src="assets/images/rekening.png" height="200px" >
+                            <br><br><br>
+                            <div class="col-md-12">
 								<p><a href="pembayaran.php" class="btn btn-primary">Upload Bukti Transfer</a></p>
-							</div>
+                            </div>      
+						</div>	
+						
 						</div>
 					</div>
 				</div>
