@@ -59,7 +59,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <nav class="navbar navbar-expand-lg">
-                        <a class="navbar-brand" href="index.html">
+                        <a class="navbar-brand" href="index.php">
                         <img src="assets/images/LOGOnew.png" width="150px" heigth="50px" alt="Logo">
                         </a> <!-- Logo -->
                         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -70,7 +70,7 @@
 
                         <div class="collapse navbar-collapse" id="navbarSupportedContent">
                             <ul id="nav" class="navbar-nav ml-auto">
-                                <li class="nav-item active">
+                                <li class="nav-item ">
                                     <a data-scroll-nav="0" href="index.php">Beranda</a>
                                 </li>
                                 <li class="nav-item">
@@ -86,7 +86,7 @@
                                     </div>
                                 </li>
                                            
-                                <li class="nav-item">
+                                <li class="nav-item active">
                                     <a data-scroll-nav="0" href="keranjang.php">Keranjang</a>
                                 </li>
                             </ul> <!-- navbar nav -->
@@ -99,8 +99,8 @@
   
     <!--====== HEADER PART ENDS ======-->
     <body style="margin-top:200px">
-    <div class="row">
-
+    <div class="row col-md-12">
+        <div class="row row-pb-md justify-content-center">
 					<div class="col-md-5 col-md-offset-1">
 						<form method="post" class="colorlib-form">
 							<h2>Upload Bukti Pembayaran</h2>
@@ -145,8 +145,12 @@
 					</div>
 						
 					</div>
-				</div>
-				<div class="col-md-5">
+
+                </div>
+
+                
+              
+				<div class="col-md-5 ">
 					<div class="cart-detail">
 						<h2>Apa Itu Bukti Pembayaran?</h2>
 						<p>Bukti pembayaran merupakan bukti transfer bank transaksi pemesanan yang anda lakukan, caranya</p>					
@@ -162,9 +166,12 @@
 						<h5>*ukuran gambar maksimal 1mb.</h5>
 					</div>
 					
-			</div>
+			    </div>
 			
-		</div>	
+
+                </div>
+                  
+        </div>
         </body>
 <!--====== FOOTER PART START ======-->
     

@@ -64,7 +64,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <nav class="navbar navbar-expand-lg">
-                        <a class="navbar-brand" href="index.html">
+                        <a class="navbar-brand" href="index.php">
 						<img src="assets/images/LOGOnew.png" width="150px" heigth="50px" alt="Logo">
                         </a> <!-- Logo -->
                         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -75,8 +75,8 @@
 
                         <div class="collapse navbar-collapse" id="navbarSupportedContent">
                             <ul id="nav" class="navbar-nav ml-auto">
-                                <li class="nav-item active">
-                                    <a data-scroll-nav="0" href="">Beranda</a>
+                                <li class="nav-item ">
+                                    <a data-scroll-nav="0" href="index.php">Beranda</a>
                                 </li>
                                 <li class="nav-item">
                                     <div class="dropdown">
@@ -92,7 +92,7 @@
                                 </li>
                                         
                                       
-                                <li class="nav-item">
+                                <li class="nav-item active">
                                     <a data-scroll-nav="0" href="keranjang.php">Keranjang</a>
                                 </li>
                             </ul> <!-- navbar nav -->
@@ -126,6 +126,7 @@
 						</div>
 					</div>
 				</div>
+				<br><br><br>
 				<!-- TABEL -->
 				
 				<!-- FORM UNTUK PENGISIAN DATA -->
